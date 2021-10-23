@@ -1,3 +1,16 @@
+# React Task Tracker
+
+## Learning Project
+
+**React JS Crash Course 2021 by Brad Traversy:** https://youtu.be/w7ejDZ8SWv8 \
+**Projects List:** https://github.com/stijn-veren/projects-list
+
+## Resources
+
+...
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
