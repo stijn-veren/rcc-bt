@@ -9,6 +9,15 @@
 
 React Icons: https://react-icons.github.io/react-icons/
 
+Serve: https://github.com/vercel/serve
+* `yarn build`
+* `sudo npm i -g serve`
+* `serve -s build -p 8000`
+
+JSON Server: https://github.com/typicode/json-server
+* `npm i json-server`
+* `npm run server`
+
 ---
 
 # Getting Started with Create React App
