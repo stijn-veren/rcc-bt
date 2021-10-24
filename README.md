@@ -16,7 +16,9 @@ Serve: https://github.com/vercel/serve
 
 JSON Server: https://github.com/typicode/json-server
 * `npm i json-server`
+* add `"server": "json-server --watch db.json --port 5000"` to package.json
 * `npm run server`
+* `http://localhost:5000/tasks`
 
 ---
 
