@@ -9,6 +9,11 @@
 
 React Icons: https://react-icons.github.io/react-icons/
 
+Serve: https://www.npmjs.com/package/serve
+* `yarn build`
+* `sudo npm i -g serve`
+* `serve -s build -p 8000`
+
 ---
 
 # Getting Started with Create React App
