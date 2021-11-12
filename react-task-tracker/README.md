@@ -1,30 +1,3 @@
-# React Task Tracker
-
-## Learning Project
-
-**React JS Crash Course 2021 by Brad Traversy:** https://youtu.be/w7ejDZ8SWv8 \
-**Projects List:** https://github.com/stijn-veren/projects-list
-
-## Resources
-
-React Icons: https://react-icons.github.io/react-icons/
-
-Serve: https://github.com/vercel/serve
-* `yarn build`
-* `sudo npm i -g serve`
-* `serve -s build -p 8000`
-
-JSON Server: https://github.com/typicode/json-server
-* `npm i json-server`
-* add `"server": "json-server --watch db.json --port 5000"` to package.json
-* `npm run server`
-* `http://localhost:5000/tasks`
-
-React Router DOM: https://reactrouter.com/web/guides/quick-start
-* `npm i react-router-dom`
-
----
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
